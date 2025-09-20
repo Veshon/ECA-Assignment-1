@@ -1,3 +1,8 @@
+## Student Details
+- Name: Veshon Mabima
+- Student ID: 2301671130
+- Email Address: vashonmabima12@gmail.com
+
 ### Video Demonstration:
 https://drive.google.com/file/d/1OXFKr1EPZ-AwBEU4CvmPPn_VaGgqciiK/view?usp=drive_link
 
@@ -165,3 +170,8 @@ Open a Pull Request
 
 ### 📞 Support
 For support or questions about this deployment, please open an issue in the GitHub repository.
+
+## Student Details
+- Name: Veshon Mabima
+- Student ID: 2301671130
+- Email Address: vashonmabima12@gmail.com
